@@ -15,6 +15,7 @@ public static void main(String[] args) {
     }
 */
 //------CONDICIONAL TERNÁRIA---------
+
     public static void main(String[] args) {
         int nota = 7;
 
